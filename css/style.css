@@ -412,7 +412,7 @@
     max-width: 100% !important;
 
     width: 1020px !important;
-    height: 80vh !important;
+    height: 95vh !important;
   }
 }
 @media (max-width: 1146px) {
@@ -435,20 +435,20 @@
 @media (max-width: 400px) {
   .team-item-1 img {
     width: 395px !important;
-    height: 80vh !important;
+    height: 45vh !important;
     margin-left: -20px;
   }
 }
 @media (min-width: 400px) {
   .team-item-1 img {
     width: 845px !important;
-    height: 80vh !important;
+    height: 50vh !important;
     margin-left: -40px;
   }
 }
 @media (min-width: 1280px) {
   .team-item-1 img {
-    width: 1175px !important;
+    width: 117px !important;
     height: 90vh !important;
     margin-left: -40px;
   }
